@@ -2,7 +2,7 @@
 | ------------- |:-------------:| -----:|
 | May I have another customs form?     | Дайте мне, пожалуйста, другой бланк декларации. |Dajte mne, pozhalujsta, drugoj blank deklaracii |
 | Please show me how to fill in the form.       | Покажите, пожалуйста, как заполнять эту форму.  |Pokazhite, pozhalujsta, kak zapolnjat' jetu formu |
-| Here's my passport. | Вот мой паспорт. |Vot moj pasport |
+| Here's my passport. | Вот мой паспорт. |Vot moj pasport | Oto mój paszport. 
 | Would you please stamp my passport?| Поставьте мне, пожалуйста, штамп в паспорт. |Postav'te mne, pozhalujsta, shtamp v pasport|
 | What is the purpose of your visit?| Какова цель Вашей поездки? |Kakova cel' Vashej poezdki?|
 | I'm a tourist.|Я турист.|Ja turist|
